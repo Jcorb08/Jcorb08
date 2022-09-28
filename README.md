@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jcorb08
-- I’m currently with knowledge in Java, HTML, Pascal, SQL, PHP, Python and C#. 
+- I’m currently with knowledge in Java, JavaScript, MySQL, PHP, Python and C#. 
 - And hoping to learn more!
 
 <!---
