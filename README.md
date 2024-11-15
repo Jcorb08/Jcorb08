@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Jcorb08
-- I’m currently with knowledge in Java, JavaScript, MySQL, PHP, Python and C#. 
+- I’m currently with knowledge in C# Blazor, SQL Server, Python, Frontend JavaScript and CSS.
+- I have Leant Java, MySQL and PHP in the Past. 
 - And hoping to learn more!
 
 <!---
